@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    color:white;
+    padding: 50px;
+}
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+    margin: 10px;
+    font-size: 40px;
+    color: cadetblue;
+    padding: 10px;
+    background-color: rgb(112, 64, 0);
+    border-radius: 30px;
+}
+p{
+    font-size: 15px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
