@@ -24,3 +24,12 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
+
+::-webkit-scrollbar{
+    width: 15px;
+
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(transparent, #61412e,#eb1d36);
+    border-radius: 5px;
+}
