@@ -33,3 +33,6 @@ p{
     background: linear-gradient(transparent, #61412e,#eb1d36);
     border-radius: 5px;
 }
+::-webkit-scrollbar-thumb:hover{
+    background: linear-gradient(transparent, #00e7e7, #3a00c2);
+}
